@@ -20,4 +20,7 @@ Saya cuma seorang manusia yang suka rebahan.
 	<a href="https://www.instagram.com/kmalvx_13/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
+
+<p align="center">
+   <img src="https://github.com/KemalYF/KemalYF/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
