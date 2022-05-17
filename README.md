@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Kemal Yazid Fauzi**.\
-Saya seorang cuma seorang manusia yang suka rebahan.
+Saya cuma seorang manusia yang suka rebahan.
  
 <p align="left">
 <a href="https://github.com/KemalYF">
