@@ -1,5 +1,3 @@
-![Kemal Yazid Fauzi](./images/top.svg)
-
 # Halo semua! 
 
 Perkenalkan nama saya **Kemal Yazid Fauzi**.\
@@ -18,9 +16,4 @@ Saya cuma seorang manusia yang suka rebahan.
 	<a href="https://www.linkedin.com/in/kemalyf/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/kmalxx69/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/kmalvx_13/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
-
-<p align="center">
-   <img src="https://github.com/KemalYF/KemalYF/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
