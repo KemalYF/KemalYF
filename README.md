@@ -1,4 +1,4 @@
-## Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [Kemal Yazid Fauzi!](https://www.linkedin.com/in/kemalyf/) 
+# Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [Kemal Yazid Fauzi!]
 Saya cuma seorang manusia yang suka rebahan.
 
 ### About Me 🚀
@@ -10,6 +10,7 @@ Saya cuma seorang manusia yang suka rebahan.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KemalYF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+![KemalYF Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&hide_border=true)
 </p>
 
 ### Let's Connect :coffee:
@@ -20,4 +21,4 @@ Saya cuma seorang manusia yang suka rebahan.
 	<a href="https://www.instagram.com/kmalvx_13/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KemalYF.KemalYF)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
