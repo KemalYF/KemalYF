@@ -10,10 +10,10 @@ Saya cuma seorang manusia yang suka rebahan.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KemalYF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-	![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![KemalYF Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&hide_border=true)
 </p>
 
+	![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![KemalYF Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&hide_border=true)
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/KemalYF"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
