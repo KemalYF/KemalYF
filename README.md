@@ -2,7 +2,7 @@
 Saya cuma seorang manusia yang suka rebahan.
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+🌱 I’m a Front-End-Web-developer. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 <p align="left">
