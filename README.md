@@ -9,8 +9,9 @@ Saya cuma seorang manusia yang suka rebahan.
 <a href="https://github.com/KemalYF">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KemalYF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&theme=algolia"/>
+	![KemalYF Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&hide_border=true)
 </a>
-![KemalYF Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&hide_border=true)
+
 </p>
 
 ### Let's Connect :coffee:
