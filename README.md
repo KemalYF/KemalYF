@@ -1,4 +1,4 @@
-# Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [Kemal Yazid Fauzi!]
+# Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [Kemal Yazid Fauzi!](https://www.linkedin.com/in/kemalyf/) 
 Saya cuma seorang manusia yang suka rebahan.
 
 ### About Me 🚀
