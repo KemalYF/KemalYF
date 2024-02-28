@@ -1,5 +1,5 @@
 # Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [Kemal Yazid Fauzi!](https://www.linkedin.com/in/kemalyf/) 
-Saya cuma seorang manusia yang suka rebahan.
+Saya cuma orang gabut yang suka ngoding.
 
 ### About Me 🚀
 🌱 I’m a Front-End-Web-developer. </br>
