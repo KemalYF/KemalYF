@@ -3,7 +3,7 @@ Saya cuma orang gabut yang suka ngoding.
 
 ### About Me 🚀
 🌱 I’m a Front-End-Web-developer. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+👨‍💻 Enjoy learning new things. </br>
 
 <p align="left">
 <a href="https://github.com/KemalYF">
